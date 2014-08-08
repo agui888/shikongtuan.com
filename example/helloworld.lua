@@ -1,7 +1,7 @@
---ÉèÖÃ±àÂë
+--è®¾ç½®é¡µé¢å­—ç¬¦é›†
 ngx.header["Content-Type"]="text/html;charset=UTF-8"
 
---print ´òÓ¡
+--print æ‰“å°å­—ç¬¦
 ngx.print("hello linko2o!")
 
 
